@@ -1,6 +1,6 @@
 # Mbed Bluetooth Temperature Sensor 🌡️
 
-This project is the **Embedded Part** of the *Mandatory Embedded-Mobile Exercise (AME2425)* for the **Embedded and Mobile Applications** course at *Universitat Rovira i Virgili (URV)*.
+This project is the Embedded Part of a Bluetooth-connected temperature monitoring system designed to measure ambient temperature using a thermistor and send data to a companion mobile app.
 
 It measures ambient temperature using a **thermistor**, converts the analog readings into Celsius, and sends them via **Bluetooth Serial (SPP)** to a computer or mobile device. The transmitted data can be viewed in real time through **PuTTY**, a serial terminal, or a mobile app connected via Bluetooth.
 
